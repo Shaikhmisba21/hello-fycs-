@@ -1,1 +1,5 @@
-# hello-fycs-
+#include<stdio.h>
+void main ()
+{
+printf("hello fycs ...!!!!")
+}
